@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Guns-shop - лучший интернет-магазин травматического оружия в СНГ</title>
+</head>
+<body><font face="Calibri">
+
+
+<img src="images/ICON.jpg" width="70" height="70" border="0">Guns-shop - лучший интернет-магазин травматического оружия в СНГ
+<table width="1300" height="400"border="1">
+
+
+
+
+<tr>
+<td width="200" background="images/I53.jpg" valign="top">Связаться с нами для покупки:(юз)</td>
+<td valign="top">Пистолет ООП Grand Power Т11- FM1 к.10х28<br><img src="images/W1.jpeg"><br>Цена:30999₽<br>
+<br>Пистолет ООП Grand Power Т12-FM2 к.10х28 (азотированный)<br><img src="images/W2.jpeg"><br>Цена:40449₽<br>
+<br>Пистолет ООП ОКБ ПС-10 к.10х28<br><img src="images/W3.jpg"><br>Цена:36499₽<br>
+<br>Пистолет ООП П-М17ТМ к.9 мм РА (Дозор, один штифт)<br><img src="images/W4.jpg"><br>Цена:34649₽<br>
+<br>Пистолет ООП МР 80-13Т к.45Rubber<br><img src="images/W5.jpg"><br>Цена:19499₽<br>
+<br>Пистолет ООП Grand Power Т12- FM2 к.10х28<br><img src="images/W6.jpeg"><br>Цена:39499₽<br>
+<br>Пистолет ООП Grand Power Т11- FM1 к.10х28 (азотированный)<br><img src="images/W7.jpeg"><br>Цена:24999₽<br>
+<br>Пистолет ООП PM PRO 45 к.45 Rubber<br><img src="images/W8.jpg"><br>Цена:₽19999<br>
+<br>Пистолет ООП PM PRO 9 к.9 мм РА<br><img src="images/W9.jpg"><br>Цена:19999₽<br>
+<br>Пистолет ООП PM PRO 9 к.9 мм РА (23П0147)<br><img src="images/W10.jpeg"><br>Цена:10999₽<br>
+<br>Пистолет ООП TK-Pro P226T к.10х28 Cerakote Bronze<br><img src="images/W11.jpg"><br>Цена:34999₽<br>
+<br>Пистолет ООП TK-Pro P226T к.10х28 Cerakote Flat Dark<br><img src="images/W12.jpg"><br>Цена:35999₽<br>
+<br>Пистолет ООП TK-Pro P226T к.10х28 Cerakote Graphite<br><img src="images/W13.jpg"><br>Цена:24999₽<br>
+<br>Пистолет ООП TK-Pro P226T к.10х28 Cerakote Green<br><img src="images/W14.jpg"><br>Цена:28999₽<br>
+<br>Пистолет ООП TK-Pro P226T к.10х28 Cerakote Silver<br><img src="images/W15.jpeg"><br>Цена:30999₽<br>
+<br>Пистолет ООП Гроза-01М к.9 мм РА<br><img src="images/W16.jpeg"><br>Цена:33999₽<br>
+<br>Пистолет ООП Гроза-11 к.9 мм РА<br><img src="images/W17.jpg"><br>Цена:30999₽<br>
+<br>Пистолет ООП Гроза-3А к.9 мм РА<br><img src="images/W18.jpg"><br>Цена:24999₽<br>
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>
